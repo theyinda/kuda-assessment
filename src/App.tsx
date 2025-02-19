@@ -29,7 +29,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>Display 15 Random Images</h1>
+      <h1>15 Random Images</h1>
       {loading ? (
         <p className="loader"></p>
       ) : (
